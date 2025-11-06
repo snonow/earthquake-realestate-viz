@@ -1,0 +1,9 @@
+altair
+vega_datasets
+vl-convert-python
+vegafusion
+IPython
+openpyxl
+pandas
+us
+streamlit
