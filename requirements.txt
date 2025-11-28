@@ -8,3 +8,6 @@ pandas
 us
 streamlit
 scikit-learn
+geopy
+geopandas
+uszipcode
