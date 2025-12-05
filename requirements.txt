@@ -13,3 +13,4 @@ geopandas
 uszipcode
 addfips
 topojson
+matplotlib
