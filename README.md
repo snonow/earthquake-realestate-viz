@@ -1,7 +1,7 @@
 # 📉 Seismic Shocks vs. Market Shocks
 ### Do earthquakes influence housing prices? (Alaska vs. California)
 
-![Python](https://img.shields.io/badge/Python-3.9-blue) ![Data Viz](https://img.shields.io/badge/Topic-Data%20Visualization-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.13.2-blue) ![Data Viz](https://img.shields.io/badge/Topic-Data%20Visualization-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > **The Insight:** Despite frequent and intense seismic activity, housing prices in high-risk zones are driven by national economic trends (urbanization, 2008 crisis), not by ground motion.
 
